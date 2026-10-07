@@ -1,0 +1,138 @@
+{
+ "id": "orden2223-2014",
+ "name": "Orden INT/2223/2014, comunicación de la información al Registro Nacional de Víctimas de Accidentes de Tráfico",
+ "short": "Orden INT/2223/2014",
+ "boeId": "BOE-A-2014-12411",
+ "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-12411",
+ "checkedAt": "2026-10-07",
+ "version": "20251219T181310Z",
+ "verified": true,
+ "articles": [
+  {
+   "id": "orden2223-2014:1",
+   "lawId": "orden2223-2014",
+   "num": "1",
+   "title": "Objeto.",
+   "paras": [
+    "Esta orden tiene por objeto regular los términos en que se comunicará al Registro Nacional de Víctimas de Accidentes de Tráfico la información referente a las víctimas de los accidentes de tráfico que tengan lugar en las vías o terrenos incluidos en el ámbito de aplicación de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial."
+   ]
+  },
+  {
+   "id": "orden2223-2014:2",
+   "lawId": "orden2223-2014",
+   "num": "2",
+   "title": "Cumplimentación del formulario de accidentes de tráfico con víctimas.",
+   "paras": [
+    "1. Los agentes de la autoridad encargados de la vigilancia y el control del tráfico, en el ámbito de sus respectivas competencias, remitirán al Registro Nacional de Víctimas de Accidentes de Tráfico la información referente a los accidentes de tráfico con víctimas a través del formulario que se recoge en el anexo I, conforme a los criterios y a la clasificación de las víctimas que se establecen en el anexo II.A) y B).",
+    "2. La información necesaria para la cumplimentación del formulario se facilitará en virtud de la obligación que se impone en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.",
+    "En concreto, para cumplimentar los datos relativos a la «lesividad» de los implicados en los accidentes, los agentes de la autoridad encargados de la vigilancia y el control del tráfico recabarán de los centros sanitarios la información necesaria para cumplimentar los datos sobre lesividad que se relacionan en el formulario recogido en el anexo I."
+   ]
+  },
+  {
+   "id": "orden2223-2014:3",
+   "lawId": "orden2223-2014",
+   "num": "3",
+   "title": "Remisión del formulario al Registro Nacional de Víctimas de Accidentes de Tráfico.",
+   "paras": [
+    "1. Cuando en el accidente se haya producido al menos un fallecido o un herido con traslado al hospital, los agentes de la autoridad encargados de la vigilancia y el control del tráfico deberán remitir al Registro Nacional de Víctimas de Accidentes de Tráfico, en el menor tiempo posible y, en todo caso, en el plazo máximo de veinticuatro horas desde que haya ocurrido, el formulario de accidentes de tráfico con víctimas cumplimentado con los datos de suministro rápido que se indican en el anexo II.C) de los que disponga.",
+    "2. Cuando se trate de un accidente con víctimas en el que no se dé alguna de las circunstancias contempladas en el apartado anterior, el plazo para remitir el formulario de accidentes de tráfico con víctimas con los datos de suministro rápido, será de diez días naturales desde la fecha en que haya tenido lugar el accidente.",
+    "3. En todo caso, el formulario totalmente cumplimentado deberá remitirse en un plazo no superior a un mes desde la fecha del accidente. Durante ese plazo podrá ir enviándose aquella información de la que se vaya teniendo conocimiento hasta su total cumplimentación."
+   ]
+  },
+  {
+   "id": "orden2223-2014:4",
+   "lawId": "orden2223-2014",
+   "num": "4",
+   "title": "Comunicación al Registro Nacional de Víctimas de Accidentes de Tráfico por medios electrónicos.",
+   "paras": [
+    "La remisión de la información al Registro Nacional de Víctimas de Accidentes de Tráfico deberá efectuarse por medios electrónicos, conforme a los protocolos informáticos que se establezcan por el responsable del Registro, de acuerdo con la normativa aplicable en relación con la transmisión de datos entre administraciones públicas e interoperabilidad de los sistemas de información y criterios y recomendaciones en materia de seguridad, conservación y normalización de la información."
+   ]
+  },
+  {
+   "id": "orden2223-2014:5",
+   "lawId": "orden2223-2014",
+   "num": "5",
+   "title": "Estadística de accidentes de tráfico con víctimas.",
+   "paras": [
+    "Con la información recibida en el Registro Nacional de Víctimas de Accidentes de Tráfico se elaborará la estadística nacional de accidentes de tráfico con víctimas, conforme a las definiciones de los principales indicadores estadísticos que se recogen en el anexo III. El resultado de esta estadística permitirá evaluar las medidas adoptadas y elaborar programas de actuación."
+   ]
+  },
+  {
+   "id": "orden2223-2014:Anexo I",
+   "lawId": "orden2223-2014",
+   "num": "Anexo I",
+   "paras": [
+    "Redactado conforme a la corrección de errores publicada en el BOE núm. 8, de 9 de enero de 2015. Ref. BOE-A-2015-181."
+   ],
+   "vigencia": "20150101"
+  },
+  {
+   "id": "orden2223-2014:Anexo II",
+   "lawId": "orden2223-2014",
+   "num": "Anexo II",
+   "paras": [
+    "A) Criterios de cumplimentación de los formularios de accidentes de tráfico con víctimas",
+    "De acuerdo con lo previsto en el artículo 2, la cumplimentación de los formularios de accidentes de tráfico con víctimas se hará con arreglo a los criterios siguientes:",
+    "1. Accidente de tráfico con víctimas. Deben reunir las circunstancias siguientes:",
+    "a) Producirse, o tener su origen, en una de las vías o terrenos objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial.",
+    "b) Resultar a consecuencia de los mismos una o varias personas fallecidas o heridas.",
+    "c) Estar implicado, al menos, un vehículo en movimiento. La definición de vehículo será la recogida en el punto 4 del anexo I del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial. Se incluirán también, por tanto, los accidentes con tranvías, trenes y demás vehículos de raíles implicados, siempre que se produzcan en vías y terrenos públicos aptos para la circulación, en los que resulte de aplicación el referido texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.",
+    "Las colisiones múltiples entre más de dos vehículos se considerarán como un único accidente, si son sucesivas.",
+    "Se excluirán:",
+    "a) Los accidentes provocados por muertes naturales confirmadas o en los que existan indicios de suicidio o intento de suicidio, excepto cuando produzcan daños a otras personas.",
+    "b) Los homicidios, lesiones intencionadas a terceros y/o daños intencionados a propiedades.",
+    "2. Vehículo implicado en un accidente de tráfico. Se considera que un vehículo está implicado en un accidente de tráfico cuando concurren una o varias de las circunstancias siguientes:",
+    "a) Entrar el vehículo en colisión con:",
+    "Otro u otros vehículos, en movimiento, parados o estacionados.",
+    "Peatones.",
+    "Animales.",
+    "Otro obstáculo.",
+    "b) Sin haber entrado en colisión, haber resultado, como consecuencia del accidente, fallecidos o heridos el conductor y/o algún pasajero del vehículo, o haberse ocasionado sólo daños materiales.",
+    "c) Estar el vehículo parado o estacionado en forma peligrosa, de modo que constituya uno de los factores del accidente.",
+    "d) Sin haber sufrido el vehículo o sus ocupantes directamente las consecuencias del accidente, constituir el comportamiento del conductor o de alguno de los pasajeros uno de los factores del accidente.",
+    "e) Haber sido arrollado el conductor o un pasajero del vehículo por otro en el momento en que subía o descendía de él, o después de haber caído desde el vehículo a la vía, en cuyo caso ambos vehículos se consideran implicados en el accidente.",
+    "3. Persona implicada en un accidente de tráfico. Se consideran personas implicadas en un accidente de tráfico los ocupantes de los vehículos definidos en el punto anterior y también los peatones cuando resulten afectados por un accidente de tráfico o su comportamiento haya sido uno de los factores del mismo, conforme a las siguientes circunstancias:",
+    "a) «Conductor»: Toda persona que, en el momento del accidente, lleva la dirección de un vehículo implicado en un accidente de tráfico. En vehículos que circulen en función de aprendizaje de la conducción, es conductor la persona que está a cargo de los mandos adicionales.",
+    "b) «Pasajero»: Toda persona que, sin ser conductor, se encuentra dentro o sobre un vehículo, o es arrollada mientras está subiendo o bajando del vehículo. Los conductores que han dejado de llevar la dirección del vehículo y son arrollados mientras suben o bajan del mismo se consideran pasajeros.",
+    "c) «Peatón»: Toda persona que, sin ser conductor ni pasajero, se ve implicada en un accidente de circulación.",
+    "Se consideran peatones quienes empujan o arrastran un coche de niño o de una persona con movilidad reducida o cualquier otro vehículo sin motor de pequeñas dimensiones, los que conducen a pie un ciclo, ciclomotor o motocicleta; las personas que se desplazan en silla de ruedas, con o sin motor; las personas que se desplazan sobre patines u otros artefactos parecidos; las personas que se encuentran reparando el vehículo, empujándolo o realizando otra operación fuera del mismo; los conductores o pasajeros que, tras haber abandonado sus vehículos, son arrollados mientras se alejan de los mismos caminando.",
+    "También se consideran peatones, a los solos efectos de la cumplimentación de los formularios de accidentes, y sin perjuicio de las definiciones establecidas con carácter general en el anexo I del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, las personas que se desplazan sobre un animal de monta y las personas que guían un animal o animales.",
+    "B) Clasificación de las personas implicadas en accidentes de tráfico con víctimas",
+    "De acuerdo con lo previsto en el artículo 2 las personas implicadas en un accidente de tráfico se clasificarán del siguiente modo:",
+    "1. «Víctima»: Toda persona que, como consecuencia de un accidente de tráfico, resulta muerta o herida según las siguientes definiciones:",
+    "a) «Fallecido a veinticuatro horas»: Toda persona que, como consecuencia de un accidente de tráfico, fallece en el acto o dentro de las siguientes veinticuatro horas. Para ello los agentes encargados de la vigilancia y control del tráfico realizarán el seguimiento de todos los heridos que hayan precisado hospitalización.",
+    "b) «Herido con hospitalización superior a veinticuatro horas»: Toda persona que, como consecuencia de un accidente de tráfico, precisa una hospitalización superior a veinticuatro horas.",
+    "c) «Herido con asistencia sanitaria igual o inferior a veinticuatro horas»: Toda persona herida en un accidente de tráfico que no haya precisado hospitalización superior a veinticuatro horas y que haya sido atendido por los servicios sanitarios correspondientes.",
+    "Se incluyen como víctimas las personas fallecidas o heridas en un accidente provocado por la muerte natural, suicidio o intento de suicidio de otro usuario. Y se excluyen los casos confirmados de muertes naturales o en los que existan indicios de suicidio.",
+    "2. «Ileso»: Toda persona implicada en un accidente de tráfico a la que no le sean aplicables las definiciones de fallecido a veinticuatro horas o herido.",
+    "C) Datos de suministro rápido de los accidentes con víctimas",
+    "De acuerdo con lo previsto en el artículo 3, los datos de suministro rápido que habrá que comunicar en los accidentes con víctimas son los siguientes:",
+    "C1. Información general. Zona, hora y fecha del accidente, población, calle y número, denominación de carretera y punto kilométrico, sentido de la vía en el que se produjo el accidente, total vehículos implicados, total víctimas ocurridas, total fallecidos a veinticuatro horas, total heridos con ingreso superior a veinticuatro horas, total heridos con asistencia sanitaria inferior a veinticuatro horas, total ilesos, tipo de vía, titularidad de la vía, nudo, tipo de accidente, superficie del firme, iluminación, estado meteorológico y circulación en sentido contrario.",
+    "C2. Información relativa al vehículo. Vehículo fugado, vehículo incendiado, matrícula, código de nacionalidad, número de ocupantes, posición respecto a la vía cuando el accidente ocurra en nudo, aproximación al nudo cuando el accidente ocurra en nudo, sentido de la circulación, maniobra del vehículo previa al accidente y si se trata de un vehículo sin conductor.",
+    "Cuando la matrícula del vehículo no sea española, se cumplimentará, además: Fecha de primera matriculación, marca, modelo, tipo de vehículo y MMA.",
+    "C3. Información relativa al conductor. Código del vehículo, fecha de nacimiento, sexo, nacionalidad, accesorios de seguridad, lesividad, prueba de alcohol: Prueba de alcohol realizada, tasa 1 en aire, tasa 2 en aire, signos de influencia del alcohol, prueba de drogas: Prueba de drogas realizada, resultado de la prueba a las sustancias testadas, signos de influencia de drogas, presuntas infracciones del conductor, presuntas infracciones de velocidad y otras infracciones.",
+    "C4. Información relativa al peatón. Fecha de nacimiento, sexo, nacionalidad, accesorios de seguridad, lesividad, prueba de alcohol: prueba de alcohol realizada, tasa 1 en aire, tasa 2 en aire, signos de influencia del alcohol, prueba de drogas: Prueba de drogas realizada, resultado de la prueba a las sustancias testadas, signos de influencia de drogas y presuntas infracciones del peatón.",
+    "C5. Información relativa al pasajero. Código del vehículo, fecha de nacimiento, sexo, nacionalidad, posición en el vehículo, accesorios de seguridad y lesividad."
+   ],
+   "vigencia": "20150101"
+  },
+  {
+   "id": "orden2223-2014:Anexo III",
+   "lawId": "orden2223-2014",
+   "num": "Anexo III",
+   "paras": [
+    "A los efectos de la elaboración de las estadísticas resultantes de la información recogida en el Registro Nacional de Víctimas de Accidentes de Tráfico y en otras fuentes, se definen a continuación los principales indicadores:",
+    "1. Referidos a la gravedad de los accidentes:",
+    "1.1 «Accidente de tráfico con víctimas»: Accidente que reúne las circunstancias descritas en el punto 1 del anexo II.A).",
+    "1.2 «Accidente de tráfico mortal»: Accidente de tráfico con víctimas cuando, al menos, una de ellas resulte fallecida, según lo dispuesto en el punto 2.1.",
+    "1.3 «Accidente de tráfico grave»: Accidente de tráfico con víctimas no definido como accidente de tráfico mortal en el que, al menos, una de las personas implicadas resulte herida con hospitalización superior a las veinticuatro horas, según lo dispuesto en el punto 2.2.",
+    "2. Referidos a la gravedad de las lesiones:",
+    "2.1 «Fallecido»: Toda persona que, como consecuencia de un accidente de tráfico, fallece en el acto o dentro de los siguientes treinta días, lo que se determinará utilizando las bases de datos de mortalidad disponibles.",
+    "Se excluirán los casos confirmados de muertes naturales o en los que existan indicios de suicidio.",
+    "2.2 «Herido con hospitalización superior a veinticuatro horas»: Toda persona que conste en el Registro Nacional de Víctimas de Accidentes de Tráfico como tal, según se define en el punto 1.b) del anexo II.B), siempre que no le sea aplicable la definición de fallecido establecida en el punto 2.1.",
+    "2.3 «Herido con asistencia sanitaria igual o inferior a veinticuatro horas»: Toda persona que conste en el Registro Nacional de Víctimas de Accidentes de Tráfico como tal, según se define en el punto 1.c) del anexo II.B), siempre que no le sean aplicables las definiciones de los puntos 2.1 y 2.2."
+   ],
+   "vigencia": "20150101"
+  }
+ ]
+}

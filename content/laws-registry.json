@@ -1,0 +1,122 @@
+[
+ {
+  "id": "ce",
+  "name": "Constitución Española de 1978",
+  "short": "CE",
+  "boeId": "BOE-A-1978-31229",
+  "expect": "Constitución Española"
+ },
+ {
+  "id": "eaib",
+  "name": "Ley Orgánica 1/2007, Estatuto de Autonomía de las Illes Balears",
+  "short": "EAIB",
+  "boeId": "BOE-A-2007-4233",
+  "expect": "Estatuto de Autonomía de las Illes Balears"
+ },
+ {
+  "id": "ley20-2006",
+  "name": "Ley 20/2006, municipal y de régimen local de las Illes Balears",
+  "short": "Ley 20/2006",
+  "boeId": "BOE-A-2007-1893",
+  "expect": "municipal y de régimen local"
+ },
+ {
+  "id": "rdleg6-2015",
+  "name": "Real Decreto Legislativo 6/2015, Ley de Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+  "short": "RDL 6/2015",
+  "boeId": "BOE-A-2015-11722",
+  "expect": "Tráfico, Circulación de Vehículos a Motor y Seguridad Vial"
+ },
+ {
+  "id": "rd1428-2003",
+  "name": "Real Decreto 1428/2003, Reglamento General de Circulación",
+  "short": "RGC",
+  "boeId": "BOE-A-2003-23514",
+  "expect": "Reglamento General de Circulación"
+ },
+ {
+  "id": "rd818-2009",
+  "name": "Real Decreto 818/2009, Reglamento General de Conductores",
+  "short": "RGCond",
+  "boeId": "BOE-A-2009-9481",
+  "expect": "Reglamento General de Conductores"
+ },
+ {
+  "id": "rd2822-1998",
+  "name": "Real Decreto 2822/1998, Reglamento General de Vehículos",
+  "short": "RGV",
+  "boeId": "BOE-A-1999-1826",
+  "expect": "Reglamento General de Vehículos"
+ },
+ {
+  "id": "ley4-2013",
+  "name": "Ley 4/2013, de coordinación de las policías locales de las Illes Balears",
+  "short": "Ley 4/2013",
+  "boeId": "BOE-A-2013-9129",
+  "expect": "coordinación de las policías locales"
+ },
+ {
+  "id": "decreto40-2019",
+  "name": "Decreto 40/2019, Reglamento marco de coordinación de las policías locales de las Illes Balears",
+  "short": "Decreto 40/2019",
+  "boeId": null,
+  "boibOnly": true,
+  "expect": "Reglamento marco de coordinación"
+ },
+ {
+  "id": "lo2-1986",
+  "name": "Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad",
+  "short": "LOFCS",
+  "boeId": "BOE-A-1986-6859",
+  "expect": "Fuerzas y Cuerpos de Seguridad"
+ },
+ {
+  "id": "lo6-1984",
+  "name": "Ley Orgánica 6/1984, reguladora del procedimiento de Habeas Corpus",
+  "short": "LO 6/1984",
+  "boeId": "BOE-A-1984-11620",
+  "expect": "Habeas Corpus"
+ },
+ {
+  "id": "lecrim",
+  "name": "Real Decreto de 14 de septiembre de 1882, Ley de Enjuiciamiento Criminal",
+  "short": "LECrim",
+  "boeId": "BOE-A-1882-6036",
+  "expect": "Enjuiciamiento Criminal"
+ },
+ {
+  "id": "cp",
+  "name": "Ley Orgánica 10/1995, del Código Penal",
+  "short": "CP",
+  "boeId": "BOE-A-1995-25444",
+  "expect": "Código Penal"
+ },
+ {
+  "id": "lopdgdd",
+  "name": "Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales",
+  "short": "LOPDGDD",
+  "boeId": "BOE-A-2018-16673",
+  "expect": "Protección de Datos Personales"
+ },
+ {
+  "id": "ley11-2016",
+  "name": "Ley 11/2016, de igualdad de mujeres y hombres (Illes Balears)",
+  "short": "Ley 11/2016",
+  "boeId": "BOE-A-2016-7994",
+  "expect": "igualdad de mujeres y hombres"
+ },
+ {
+  "id": "ley8-2016",
+  "name": "Ley 8/2016, para garantizar los derechos de lesbianas, gais, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia (Illes Balears)",
+  "short": "Ley 8/2016",
+  "boeId": "BOE-A-2016-6310",
+  "expect": "LGTBI"
+ },
+ {
+  "id": "orden2223-2014",
+  "name": "Orden INT/2223/2014, comunicación de la información al Registro Nacional de Víctimas de Accidentes de Tráfico",
+  "short": "Orden INT/2223/2014",
+  "boeId": "BOE-A-2014-12411",
+  "expect": "Registro Nacional de Víctimas de Accidentes de Tráfico"
+ }
+]

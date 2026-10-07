@@ -1,0 +1,490 @@
+[
+ {
+  "id": 1,
+  "block": 1,
+  "title": "Constitución: norma suprema, estructura y principios",
+  "scope": "Constitución española de 1978. La Constitución como norma suprema. Características y estructura de la Constitución española. Principios constitucionales básicos.",
+  "sources": [
+   {
+    "law": "ce",
+    "ranges": [
+     "1-9",
+     "166-169"
+    ],
+    "conf": "alta"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "block": 1,
+  "title": "Constitución: derechos y deberes fundamentales",
+  "scope": "Constitución española de 1978. Derechos y deberes fundamentales.",
+  "sources": [
+   {
+    "law": "ce",
+    "ranges": [
+     "10-55"
+    ],
+    "conf": "alta"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "block": 1,
+  "title": "Constitución: Corona, Cortes, Gobierno, Poder Judicial y TC",
+  "scope": "Constitución española de 1978. La Corona. Las Cortes Generales. El Gobierno y la Administración. Las relaciones entre las Cortes Generales y el Gobierno. El Poder Judicial. El Tribunal Constitucional.",
+  "sources": [
+   {
+    "law": "ce",
+    "ranges": [
+     "56-65",
+     "66-96",
+     "97-107",
+     "108-116",
+     "117-127",
+     "159-165"
+    ],
+    "conf": "alta"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "block": 1,
+  "title": "Constitución: organización territorial del Estado",
+  "scope": "Constitución española de 1978. La organización territorial del Estado.",
+  "sources": [
+   {
+    "law": "ce",
+    "ranges": [
+     "137-158"
+    ],
+    "conf": "alta"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "block": 1,
+  "title": "Estatuto de Autonomía de las Illes Balears",
+  "scope": "Estatuto de autonomía de las Islas Baleares. Disposiciones generales. Las competencias de la CAIB. Instituciones de la CAIB: del Parlamento, del presidente del Gobierno, de los consejos insulares, de los municipios y otras entidades locales. El poder judicial en las Islas Baleares: el Tribunal Superior de Justicia, competencias, el presidente o la presidenta del TSJ. Financiación y hacienda: principios generales.",
+  "sources": [
+   {
+    "law": "eaib",
+    "conf": "alta",
+    "ranges": [
+     "1-12",
+     "30-38",
+     "39-75",
+     "93-100",
+     "120-126"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "block": 1,
+  "title": "Ley 20/2006 municipal y de régimen local",
+  "scope": "Ley 20/2006, de 15 de diciembre, municipal y de régimen local de las Islas Baleares. Los municipios: elementos del municipio. Identificación, población municipal, la organización municipal, competencias. Disposiciones comunes a las entidades locales: reglamentos, ordenanzas y bandos.",
+  "sources": [
+   {
+    "law": "ley20-2006",
+    "conf": "alta",
+    "ranges": [
+     "9-10",
+     "17-26",
+     "29",
+     "100-104"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "block": 2,
+  "title": "Ley de Tráfico: disposiciones generales y competencias",
+  "scope": "RDL 6/2015. Disposiciones generales. Ejercicio y coordinación de las competencias sobre tráfico, circulación de vehículos a motor y seguridad vial: competencias de los municipios. Anexo I: conceptos básicos.",
+  "sources": [
+   {
+    "law": "rdleg6-2015",
+    "conf": "alta",
+    "ranges": [
+     "1-9",
+     "Anexo I"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "block": 2,
+  "title": "RGC: normas generales y de comportamiento",
+  "scope": "RD 1428/2003. Normas generales de comportamiento en la circulación: normas generales, normas generales de los conductores, normas sobre bebidas alcohólicas, normas sobre estupefacientes, psicotrópicos, estimulantes u otras sustancias análogas.",
+  "sources": [
+   {
+    "law": "rd1428-2003",
+    "ranges": [
+     "2-7",
+     "17-28"
+    ],
+    "conf": "alta"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "block": 2,
+  "title": "RGC: la circulación de vehículos",
+  "scope": "RD 1428/2003. La circulación de vehículos.",
+  "sources": [
+   {
+    "law": "rd1428-2003",
+    "conf": "alta",
+    "ranges": [
+     "29-113"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "block": 2,
+  "title": "RGC: señalización",
+  "scope": "RD 1428/2003. La señalización: normas generales, prioridad entre señales. Las señales y órdenes de los agentes de circulación.",
+  "sources": [
+   {
+    "law": "rd1428-2003",
+    "conf": "alta",
+    "ranges": [
+     "131-133",
+     "141"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "block": 2,
+  "title": "Reglamento General de Conductores",
+  "scope": "RD 818/2009. Las autorizaciones administrativas para conducir: el permiso y la licencia de conducción.",
+  "sources": [
+   {
+    "law": "rd818-2009",
+    "conf": "alta",
+    "ranges": [
+     "1-14"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "block": 2,
+  "title": "RGV: normas generales",
+  "scope": "RD 2822/1998. Reglamento general de vehículos. Normas generales.",
+  "sources": [
+   {
+    "law": "rd2822-1998",
+    "conf": "alta",
+    "ranges": [
+     "1-4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "block": 2,
+  "title": "RGV: ciclomotores, ciclos, tracción animal, tranvías",
+  "scope": "RD 2822/1998. Ciclomotores, ciclos, vehículos de tracción animal y tranvías.",
+  "sources": [
+   {
+    "law": "rd2822-1998",
+    "conf": "alta",
+    "ranges": [
+     "21-24"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "block": 2,
+  "title": "RGV: autorizaciones de circulación y matriculación",
+  "scope": "RD 2822/1998. Autorizaciones de circulación de los vehículos: matriculación y matriculación ordinaria.",
+  "sources": [
+   {
+    "law": "rd2822-1998",
+    "conf": "alta",
+    "ranges": [
+     "25-30"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "block": 2,
+  "title": "RGV: Anexo II",
+  "scope": "RD 2822/1998. Anexo II: definiciones y categorías de los vehículos.",
+  "sources": [
+   {
+    "law": "rd2822-1998",
+    "conf": "alta",
+    "ranges": [
+     "Anexo II"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "block": 2,
+  "title": "RGV: Anexo XVIII",
+  "scope": "RD 2822/1998. Anexo XVIII: placas de matrícula, colores e inscripciones, contraseñas de las placas.",
+  "sources": [
+   {
+    "law": "rd2822-1998",
+    "conf": "alta",
+    "ranges": [
+     "Anexo XVIII"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "block": 2,
+  "title": "El accidente de tráfico",
+  "scope": "El accidente de tráfico. Definición, tipos, causas y clases de accidentes. La actuación policial ante los accidentes de tráfico. El orden cronológico de las actuaciones.",
+  "sources": [
+   {
+    "law": "orden2223-2014",
+    "whole": true,
+    "conf": "alta"
+   },
+   {
+    "law": "rdleg6-2015",
+    "ranges": [
+     "114-115"
+    ],
+    "conf": "por-confirmar"
+   }
+  ],
+  "pending": "La parte doctrinal (definición, tipos, causas y clases de accidentes, actuación policial y orden cronológico) no es norma: añádela como material personal en cada artículo o en Más → Material."
+ },
+ {
+  "id": 18,
+  "block": 3,
+  "title": "Ley 4/2013: principios generales y cuerpos de policía local",
+  "scope": "Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Islas Baleares. Principios generales. Cuerpos de policía local. Estructura y régimen de funcionamiento.",
+  "sources": [
+   {
+    "law": "ley4-2013",
+    "conf": "alta",
+    "ranges": [
+     "1-8",
+     "20-27"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "block": 3,
+  "title": "Ley 4/2013: régimen disciplinario",
+  "scope": "Ley 4/2013. Régimen disciplinario: principios generales, infracciones, sanciones y potestad sancionadora, extinción o prescripción.",
+  "sources": [
+   {
+    "law": "ley4-2013",
+    "conf": "alta",
+    "ranges": [
+     "63-76"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "block": 3,
+  "title": "Decreto 40/2019: autodefensa, armas y uniformidad",
+  "scope": "Decreto 40/2019 (Reglamento marco de coordinación de policías locales; modifica Decreto 55/2017, Fondo de Seguridad Pública). Equipo básico de autodefensa y protección: tenencia de armas, armas de fuego, defensa y bastón extensible, aerosol de defensa. Uniformidad y equipamiento. Normas de apariencia externa, presentación y uniformidad.",
+  "sources": [
+   {
+    "law": "decreto40-2019",
+    "ranges": [
+     "48-85",
+     "89-107"
+    ],
+    "conf": "alta"
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "block": 3,
+  "title": "LO 2/1986: principios básicos y disposiciones estatutarias",
+  "scope": "Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad. Principios básicos de actuación. Disposiciones estatutarias comunes. De las policías locales.",
+  "sources": [
+   {
+    "law": "lo2-1986",
+    "conf": "alta",
+    "ranges": [
+     "5-8",
+     "51-54"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "block": 3,
+  "title": "La policía local como policía judicial. La detención",
+  "scope": "La policía local como policía judicial. La detención. Concepto. Derechos y garantías del detenido. Ley Orgánica 6/1984, reguladora del procedimiento de habeas corpus.",
+  "sources": [
+   {
+    "law": "lo6-1984",
+    "conf": "alta",
+    "whole": true
+   },
+   {
+    "law": "lecrim",
+    "conf": "alta",
+    "ranges": [
+     "282-298",
+     "489-501",
+     "520-527"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "block": 3,
+  "title": "LECrim: la denuncia",
+  "scope": "Real Decreto de 14 de septiembre de 1882, Ley de Enjuiciamiento Criminal. La denuncia.",
+  "sources": [
+   {
+    "law": "lecrim",
+    "conf": "alta",
+    "ranges": [
+     "259-269"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "block": 3,
+  "title": "Código Penal: infracción penal y responsables",
+  "scope": "LO 10/1995, Código Penal. De la infracción penal. De las personas criminalmente responsables de los delitos.",
+  "sources": [
+   {
+    "law": "cp",
+    "conf": "alta",
+    "ranges": [
+     "10-31"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "block": 3,
+  "title": "Código Penal: patrimonio y orden socioeconómico",
+  "scope": "LO 10/1995, Código Penal. Delitos contra el patrimonio y contra el orden socioeconómico: los hurtos, los robos, el robo y hurto de uso de vehículos, la usurpación, las defraudaciones, los daños.",
+  "sources": [
+   {
+    "law": "cp",
+    "conf": "alta",
+    "ranges": [
+     "234-242",
+     "244-256",
+     "263-267"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "block": 3,
+  "title": "Código Penal: seguridad vial",
+  "scope": "LO 10/1995, Código Penal. Delitos contra la seguridad vial.",
+  "sources": [
+   {
+    "law": "cp",
+    "conf": "alta",
+    "ranges": [
+     "379-385"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "block": 3,
+  "title": "Código Penal: derechos fundamentales y libertades públicas",
+  "scope": "LO 10/1995, Código Penal. Delitos cometidos con ocasión del ejercicio de los derechos fundamentales y de las libertades públicas garantizadas por la Constitución.",
+  "sources": [
+   {
+    "law": "cp",
+    "conf": "alta",
+    "ranges": [
+     "510-521"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "block": 3,
+  "title": "LOPDGDD: disposiciones generales y derechos",
+  "scope": "LO 3/2018, de protección de datos personales y garantía de los derechos digitales. Disposiciones generales. Principios de protección de datos. Derechos de las personas.",
+  "sources": [
+   {
+    "law": "lopdgdd",
+    "conf": "alta",
+    "ranges": [
+     "1-18"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "block": 3,
+  "title": "Ley 11/2016: igualdad de mujeres y hombres",
+  "scope": "Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres. Disposiciones generales. Competencias, funciones, organización institucional y financiación. Violencia machista.",
+  "sources": [
+   {
+    "law": "ley11-2016",
+    "conf": "alta",
+    "ranges": [
+     "1-3",
+     "12-22",
+     "65-78"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "block": 3,
+  "title": "Ley 8/2016: LGTBI",
+  "scope": "Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gais, trans, bisexuales e intersexuales y para erradicar la LGTBIfobia. Disposiciones generales. Políticas públicas para promover la igualdad efectiva de las personas LGTBI: profesionales que actúan en ámbitos sensibles. Mecanismos para garantizar el derecho a la igualdad.",
+  "sources": [
+   {
+    "law": "ley8-2016",
+    "conf": "alta",
+    "ranges": [
+     "1-6",
+     "10-11",
+     "24-41"
+    ]
+   }
+  ]
+ }
+]

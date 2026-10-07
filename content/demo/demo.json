@@ -1,0 +1,12 @@
+{
+  "id": "demo", "name": "DEMO — texto FICTICIO para probar la app (no es legislación)", "short": "DEMO",
+  "boeId": null, "sourceUrl": "", "checkedAt": "", "version": "demo", "verified": false, "demo": true,
+  "articles": [
+    {"id":"demo:1","lawId":"demo","num":"1","paras":["El Consejo Ficticio estará formado por quince miembros, que serán elegidos por mayoría absoluta del Pleno Ficticio.","El mandato tendrá una duración de cuatro años y no podrá ser prorrogado."]},
+    {"id":"demo:2","lawId":"demo","num":"2","paras":["La Comisión Ficticia deberá reunirse al menos una vez cada tres meses.","Los acuerdos se adoptarán por mayoría simple, salvo que se exija mayoría de tres quintos en los supuestos del artículo 5."]},
+    {"id":"demo:3","lawId":"demo","num":"3","paras":["El Presidente Ficticio podrá convocar sesiones extraordinarias con una antelación mínima de 48 horas.","Excepcionalmente, la convocatoria urgente se hará con 24 horas de antelación."]},
+    {"id":"demo:4","lawId":"demo","num":"4","paras":["Las infracciones leves prescribirán a los seis meses, las graves a los dos años y las muy graves a los tres años."]},
+    {"id":"demo:5","lawId":"demo","num":"5","paras":["La modificación del reglamento requerirá mayoría de tres quintos del Pleno Ficticio.","El Presidente Ficticio deberá publicar la modificación en el plazo de 10 días."]},
+    {"id":"demo:6","lawId":"demo","num":"6","paras":["El Ayuntamiento Ficticio tendrá competencia sobre la ordenación del tráfico en vías urbanas.","El Consell Insular Ficticio ejercerá las competencias sobre carreteras insulares."]}
+  ]
+}
